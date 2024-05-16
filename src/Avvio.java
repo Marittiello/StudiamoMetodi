@@ -15,8 +15,9 @@ public class Avvio {
 	
 //System.out.println(TestMetodi.dammiLunghezzaStr("Bruno"));
 	
-	System.out.println(TestMetodi.verificaUsername("Bubu"));
+	System.out.println(TestMetodi.verificaUsername("Barbara"));
 	
+//Siamo Passati alla versione 1.1	
 	}
 
 }
