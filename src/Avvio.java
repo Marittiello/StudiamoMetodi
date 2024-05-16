@@ -17,7 +17,8 @@ public class Avvio {
 	
 	System.out.println(TestMetodi.verificaUsername("Barbara"));
 	
-//Siamo Passati alla versione 1.1	
+//Siamo Passati alla versione 1.1
+//Scrivo questa riga da git hub
 	}
 
 }
